@@ -114,3 +114,6 @@ See [the contribution guide](https://github.com/Discord-Jar/Discord.jar/blob/mai
 
 If you don't understand something in the documentation, you are experiencing problems, or you just need a gentle
 nudge in the right direction, please don't hesitate to join our official [discord.jar Server](https://discord.gg/djs).
+
+# Thanks
+Icon created by Aiisho#1706 in [discord](https://discord.com/)
