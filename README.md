@@ -116,4 +116,4 @@ If you don't understand something in the documentation, you are experiencing pro
 nudge in the right direction, please don't hesitate to join our official [discord.jar Server](https://discord.gg/djs).
 
 # Thanks
-Icon created by Aiisho#1706 in [discord](https://discord.com/)
+Icon created by [Aiisho#1706](https://discord.com/users/376530031947808770) in [discord](https://discord.com/)
