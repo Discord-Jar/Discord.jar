@@ -14,7 +14,7 @@
 
 ## About
 
-discord.js is a powerful [Node.js](https://nodejs.org) module that allows you to easily interact with the
+discord.jar is a powerful [Java](https://www.azul.com/downloads/?package=jdk) module that allows you to easily interact with the
 [Discord API](https://discord.com/developers/docs/intro).
 
 - Object-oriented
@@ -24,7 +24,7 @@ discord.js is a powerful [Node.js](https://nodejs.org) module that allows you to
 
 ## Installation
 
-**Node.js 16.6.0 or newer is required.**  
+**Java SE 8 or newer is required.**  
 
 ```sh-session
 npm install discord.js
@@ -90,13 +90,13 @@ client.login('token');
 
 ## Links
 
-- [Website](https://discord.js.org/) ([source](https://github.com/discordjs/website))
+- [Website](https://discord.js.org/) ([source](https://github.com/Discord-Jar/documentation))
 - [Documentation](https://discord.js.org/#/docs)
 - [Guide](https://discordjs.guide/) ([source](https://github.com/discordjs/guide))
   See also the [Update Guide](https://discordjs.guide/additional-info/changes-in-v13.html), including updated and removed items in the library.
 - [discord.js Discord server](https://discord.gg/djs)
 - [Discord API Discord server](https://discord.gg/discord-api)
-- [GitHub](https://github.com/discordjs/discord.js)
+- [GitHub](https://github.com/Discord-Jar/Discord.jar)
 - [npm](https://www.npmjs.com/package/discord.js)
 - [Related libraries](https://discord.com/developers/docs/topics/community-resources#libraries)
 
@@ -108,9 +108,9 @@ client.login('token');
 
 Before creating an issue, please ensure that it hasn't already been reported/suggested, and double-check the
 [documentation](https://discord.js.org/#/docs).  
-See [the contribution guide](https://github.com/discordjs/discord.js/blob/main/.github/CONTRIBUTING.md) if you'd like to submit a PR.
+See [the contribution guide](https://github.com/Discord-Jar/Discord.jar/blob/main/.github/CONTRIBUTING.md) if you'd like to submit a PR.
 
 ## Help
 
 If you don't understand something in the documentation, you are experiencing problems, or you just need a gentle
-nudge in the right direction, please don't hesitate to join our official [discord.js Server](https://discord.gg/djs).
+nudge in the right direction, please don't hesitate to join our official [discord.jar Server](https://discord.gg/djs).
